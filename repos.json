@@ -1,0 +1,19 @@
+{
+   "repos":[
+      {
+         "jobname":"HelloGit-1",
+         "gitrepo":"https://github.com/githubtraining/hellogitworld",
+         "description":"HelloGit Repo #1"
+      },
+      {
+         "jobname":"HelloGit-2",
+         "gitrepo":"https://github.com/githubtraining/hellogitworld",
+         "description":"HelloGit Repo #2"
+      },
+      {
+         "jobname":"HelloGit-3",
+         "gitrepo":"https://github.com/githubtraining/hellogitworld",
+         "description":"HelloGit Repo #3"
+      }
+   ]
+}
