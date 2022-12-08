@@ -1,1 +1,1 @@
-Demo Jenkins DSL REPO 
+Demo Jenkins DSL REPO - **DevOpsCon Advanced CI/CD workshop**
