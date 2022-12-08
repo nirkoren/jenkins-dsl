@@ -13,7 +13,7 @@
       {
          "jobname":"HelloGit-3",
          "gitrepo":"https://github.com/githubtraining/hellogitworld",
-         "description":"HelloGit Repo #3"
+         "description":"HelloGit Repo #3 - this is my change on this job only "
       }
    ]
 }
